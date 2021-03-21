@@ -2,9 +2,7 @@
 
 The Calculator is a mobile app which allows people to do math operations more easily which includes add, subtract, multiply, and divide, etc.
 
-![cs1](https://user-images.githubusercontent.com/73191264/111897021-96a88300-8a43-11eb-972d-59015c22b5c8.jpg)
-![cs2](https://user-images.githubusercontent.com/73191264/111897023-98724680-8a43-11eb-85cd-1c6eef2a4eb9.jpg)
-![cs3](https://user-images.githubusercontent.com/73191264/111897024-990add00-8a43-11eb-8c95-efb9b88c7fe5.jpg)
+![cs1_350x720](https://user-images.githubusercontent.com/73191264/111897138-3b2ac500-8a44-11eb-8b9c-ecff1de646fc.jpg)
 
 ## Getting Started
 
