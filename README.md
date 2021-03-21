@@ -1,2 +1,2 @@
 # Calculator
-The Calculator is a mobile app which allows people to do math operations more easily. For example, most calculators will add, subtract, multiply, and divide.
+The Calculator is a mobile app which allows people to do math operations more easily which includes add, subtract, multiply, and divide.
